@@ -1,0 +1,12 @@
+{
+    "name": "diy-raspberry-temperature",
+    "author": "Petr Malimanek [Integromat]",
+    "version": "0.1.0",
+    "dependencies": {
+        "rpi-dht-sensor": "^0.1.1",
+        "request": "^2.81.0"
+    },
+    "scripts": {
+        "start": "node lib/index.js"
+    }
+}
